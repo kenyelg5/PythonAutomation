@@ -1,5 +1,6 @@
 import pyautogui
 
+
 pyautogui.PAUSE = 0.3
 
 #.click - clica
